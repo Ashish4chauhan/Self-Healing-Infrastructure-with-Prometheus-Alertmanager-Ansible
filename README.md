@@ -1,4 +1,5 @@
 Self-Healing Infrastructure with Prometheus, Alertmanager & Ansible
+
 Introduction
 
 In modern cloud-native environments, ensuring high availability and resilience is critical. Automation plays a key role in minimizing downtime and improving system reliability.
